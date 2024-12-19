@@ -1,4 +1,5 @@
 build-essential
+pkg-config
 cmake
-boost
-cgal
+libboost-all-dev
+libcgal-dev
